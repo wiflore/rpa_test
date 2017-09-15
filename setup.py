@@ -10,6 +10,6 @@ setup(
   url = 'https://github.com/wiflore/rpa_test/tree/master/mypackage', # use the URL to the github repo
   download_url = 'https://github.com/wiflore/rpa_test/archive/0.1.tar.gz', # I'll explain this in a second
   keywords = ['testing', 'rpa', 'example'], # arbitrary keywords
-  install_requires=['PyAutoGUI>=0.9.36', 'pywinauto>=0.6.3']
+  install_requires=['PyAutoGUI>=0.9.36', 'pywinauto>=0.6.3'],
   classifiers = [],
 )
